@@ -11,8 +11,8 @@ Hello everyone! My name is George Kolokolnikov and I am a post-graduate student 
 Today I am embarking on a journey through the world of Computer Science, which I hope will be fruitful.
 If you are as interested in programming, web development, machine learning and artificial intelligence as I am, I will be glad if you will accompany me on my adventure =)
 </p>
-</details>
-
+</details>  
+  
 ![pic](https://github.com/GeorgBell/Computer-Sciecnce-Journey/blob/main/1%20The%20starting%20point/20210104_201945.jpg)
 
 Начнем с бэкграунда. Мой первый школьный опыт в информационных технологиях включал программирование в Лого-мирах, затем Паскаль и немного HTML-верстки, однако на тот момент мой разум во всю охватила физика, поэтому при поступлении в институт я выбрал направление теоретической ядерной физики в НИЯУ МИФИ. 
@@ -26,12 +26,13 @@ A year later, I realized that theoretical physics was not mine, so I re-enrolled
 While studying at BMSTU, I often wondered what my future profession is, what can I do? I often recalled my brother's advice: "You had to go to computer technology programme!"
 </p>
 </details>
-![pic]()
+
+![pic](https://github.com/GeorgBell/Computer-Sciecnce-Journey/blob/main/1%20The%20starting%20point/Iron_pic.png)
 
 И вот на четвертом курсе мне в руки попал один бизнес-журнал, в котором рассматривались технологические решения в области цифровой медицины.
 Среди всего прочего я увидел то, что поразило мое сознание: искусственный интеллект позволяет эффективно проводить диагностику пациентов.
 Этот момент стал настоящей отправной точкой, именно в этот момент я понял, чем хочу заниматься.
-Благодаря своему научному руководителю Самородову Андрею Владимировичу и коллеге Никите Норкину мы начали разрабатывать телемедицинскую систему интеллектуальной цитологической диагностики. 
+Вместе со своим научным руководителем Самородовым Андреем Владимировичем и коллегой Никитой Норкиным мы начали разрабатывать телемедицинскую систему интеллектуальной цитологической диагностики. 
 Начиная с января 2018 года, по совету аспиранта нашей кафедры Ивана Семчука, я приступил к изучению языка программирования Python и разработке системы управления микроскопом на основе одноплатного компьютера Raspberry Pi.
 В результате интенсивной работы совместно с Никитой Норкиным нам удалось сделать прототип автоматизированного комплекса микроскопии с графическим интерфейсом пользователя.
 <details><summary>English</summary>
@@ -44,7 +45,8 @@ Starting in January 2018,  thanks to Ivan Semchuk, a graduate student of our dep
 As a result of intensive work together with Nikita Norkin, we managed to make a prototype of an automated microscopy complex with a graphical user interface.
 </p>
 </details>
-![pic]()
+
+![pic](https://github.com/GeorgBell/Computer-Sciecnce-Journey/blob/main/1%20The%20starting%20point/20181116_180929.jpg)
 
 А далее у меня появился первый опыт работы в области Data Science в компании Медиком благодаря Анне Борде и Алексею Лисееву.
 Пришлось срочно осваивать Pandas, Scikit-Learn, TensorFlow, изучать литературу по машинному и глубокому обучению и применять полученные знания для анализа сигналов ЭКГ.
@@ -66,7 +68,8 @@ This controversy accumulated day after day, along with purchased IT books and de
 And finally I matured. I hit the road through Computer Science Country to close the gaps.
 </p>
 </details>
-![pic]()
+
+![pic](https://github.com/GeorgBell/Computer-Sciecnce-Journey/blob/main/1%20The%20starting%20point/code-hub-newbie-al-ml-algorithms-data-structures-programmers-o0p-54780711.png)
 
 Зачем я решил вести блог? По нескольким причинам:
 - поделиться своими находками, интересными фактами, идеями,
@@ -93,4 +96,4 @@ So, I start:
 - Codewars/LeetCode tasks
 </p>
 </details>
-![pic]()
+
